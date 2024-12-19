@@ -1,0 +1,38 @@
+export const Colors = {
+  light: {
+    background: '#E4E4E7',
+    linearGradient: '#9FCCF5',
+    linearGradient2: '#A990DC',
+    text: '#000',
+    alternativeText: '#fff',
+    subtextTextInputAndSvg: '#27272A',
+    generalDetails: '#854EF6',
+    secondaryDetails: '#9370DB',
+    alternativeDetails: '#1D4ED8',
+    lightDetails: '#71717A',
+    darkDetails: '#B4B4C4',
+    headerMenuAndDetails: '#B4B4C4',
+    intervalAndOtherDetails: '#fff',
+    modalButtonRed: '#A52A2A',
+    bottomSheet: '#F5F5F5',
+    statusBarContent: 'dark-content'
+  },
+  dark: {
+    background: '#09090B',
+    linearGradient: '#260E4E',
+    linearGradient2: '#000',
+    text: '#fff',
+    alternativeText: '#000',
+    subtextTextInputAndSvg: '#71717A',
+    generalDetails: '#573E9C',
+    secondaryDetails: '#9C6CFF',
+    alternativeDetails: '#60A5FA',
+    lightDetails: '#F5F5F5',
+    darkDetails: '#18181B',
+    headerMenuAndDetails: '#121214',
+    intervalAndOtherDetails: '#101016',
+    modalButtonRed: '#A52A2A',
+    bottomSheet: '#18181B',
+    statusBarContent: 'light-content'
+  },
+};
