@@ -81,6 +81,3 @@ This project is licensed under the MIT License.
 
 ## Author
 - **Julia Bonifacio** - [juliabonifaciio](https://github.com/juliabonifaciio)
-# Alioth
-# AliothSchoolManagement
-# Alioth
