@@ -1,6 +1,6 @@
 # ALIOTH School Management App
 
-![Banner](./assets//images//github-banner.png)
+![Banner](./assets//images//GithubBanner.jpg)
 
 A comprehensive school management mobile application built with React Native, providing an intuitive platform for managing students, teachers, classes, and academic performance.
 
